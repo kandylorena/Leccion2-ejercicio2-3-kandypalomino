@@ -1,2 +1,2 @@
-# Leccion2-ejercicio1-kandypalomino
-Leccion2-ejercicio1
+# Leccion2-ejercicio2-3-Kandypalomino
+Leccion2-ejercicio2-3
